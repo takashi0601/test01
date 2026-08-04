@@ -1,0 +1,11 @@
+{
+  "weatherTelop": {
+    "speed": 150
+  },
+  "TokyoWeatherTelop": {
+    "speed": 200
+  },
+  "infoTelop": {
+    "speed": 300
+  }
+}
